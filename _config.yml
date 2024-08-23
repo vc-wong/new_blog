@@ -28,7 +28,8 @@ paginate:         5
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hydeout
+# theme: jekyll-theme-hydeout
+remote_theme: hydecorp/hydejack@v9
 plugins:
   - jekyll-feed
   - jekyll-gist
